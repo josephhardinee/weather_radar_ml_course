@@ -1,0 +1,9 @@
+*.pyc
+*.dot
+*.pdf
+*.png
+.ipynb_checkpoints
+*.gz
+log
+.idea/
+_build/
